@@ -1,0 +1,128 @@
+.footer{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    width:1244px;
+    height:500px;
+    margin-top:300px;
+   margin-left:90px;
+   margin-right: 90px;
+   box-sizing: border-box;
+ 
+   
+   
+}
+.fo{
+    display:flex;
+    flex-direction: row;
+    column-gap:10px;
+   
+   
+
+}
+.te{
+    object-position: start;
+    flex:2;
+    
+    width:475px;
+    font-size:30px;
+    font-family:Libre Baskerville, sans-serif;
+    padding:0px 12px;
+
+
+
+}
+
+.fep{
+    font-size:30px;
+    font-family:Libre Baskerville, sans-serif;
+    font-weight: 500;
+    
+}
+.te p{
+    font-size:16px;
+    font-family:Libre Baskerville, sans-serif;
+    font-weight:500;
+}
+
+.foot{
+   
+    width:285px;
+}
+.soicons {
+  display: flex;
+  gap: 20px;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #aaa;
+  border-radius: 50%;
+  color: #aaa;
+  text-decoration: none;
+  font-size: 24px;
+  transition: all 0.3s ease;
+}
+
+.icon:hover {
+  color: #fff;
+  border-color: #fff;
+}
+.foot h2{
+    padding-left:38px;
+    font-size:25px;
+    font-family:Libre Baskerville, sans-serif;
+    font-weight:500;
+}
+.fot{
+    padding-left:38px;
+    font-size:16px;
+    font-family: sans-serif;
+    line-height: 20px;
+    cursor: pointer;
+}
+.fot:hover{
+    color:#ceaf7f;
+
+}
+.fet{
+    font-size:16px;
+    padding-left:38px;
+    line-height: 17px;
+    font-family: sans-serif;
+    color:white;
+}
+.fe1{
+    color:white;
+    font-weight: bold;
+}
+
+.er{
+    
+    width:1244px;
+    height:80px;
+    
+    margin-top:80px;
+}
+.er p{
+    text-align: center;
+}
+.hr{
+    font-weight: bolder;
+    color:white;
+    margin-left:10px;
+    margin-right:10px;
+}
+.gr{
+    font-size:16px;
+    margin-top:-10px;
+    color:color-mix(in srgb, white,50%);
+}
+.grr{
+    color:#ceaf7f;
+
+}
